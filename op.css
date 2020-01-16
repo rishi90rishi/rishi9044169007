@@ -1,0 +1,1180 @@
+#div0{
+    
+height:170%;
+    width: 100%;
+    border: 3px solid red;
+    
+    
+    
+}
+
+#div1{
+    
+ height: 40px;
+    width: 1320px;
+    border: 1px solid blue;
+    margin: 2px;
+    margin-left: 6px;
+    background-color:darkslateblue;
+    
+}
+
+#div1 ul li{
+    height: 35px;
+    width: 200px;
+    border: 1px solid white;
+     margin-left: -36px;
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+color: beige;
+
+}
+
+#div1 #ul1 {
+    margin-top:1px; 
+    float: left;
+}
+
+#div1 ul ul{
+    
+    display: none;
+}
+
+
+
+#div1 ul li:hover ul{
+display: block;
+    
+    
+}
+
+
+#div1 ul ul li{
+    
+    margin-left: 30px;
+     
+    
+}
+
+#div1 ul ul #li1{
+    
+margin-top:12px; 
+     
+        
+}
+
+
+#div1 #ul2 li{
+    
+height:35px;     
+ width: 300px;   
+    float: left;
+    margin-left: 1px;
+    margin-top:-15px;
+    color: beige;
+}
+
+
+#div1 #ul3 li{
+    
+height:35px;     
+ width: 300px;   
+        margin-left: 1px;
+    float: left;
+        margin-top:-15px;
+    color: beige;
+}
+
+
+#div1 #ul4 li{
+    
+height:35px;     
+ width: 300px;   
+        margin-left: 1px;
+    margin-top:-15px;
+    float: left;
+    color: beige;
+}
+
+
+
+
+#div1 #ul5 li{
+    
+height:35px;     
+ width: 200px;   
+        margin-left: 1px;
+    float: left;
+color: beige;
+    margin-top:-15px; 
+}
+
+#div1 #ul5 li{
+    
+    animation-name: wap;
+    animation-duration: 1s;
+
+    animation-iteration-count: infinite;
+}
+
+@keyframes wap{
+    from{background-color:orange;width: 145px; }
+    to{background-color:lawngreen;}
+    
+    
+}
+
+
+#div2{
+    
+ height: 110px;
+    width: 1320px;
+    border: 1px solid black;
+    margin: 5px;
+    margin-left: 6px;
+    background-color:darkslateblue;
+ margin-top: -2px;
+    
+
+}
+
+
+#ul6 li{
+    color: white;
+    font-size: 45px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+    float: left;
+}
+ul li{
+    list-style: none;
+    
+}
+
+
+#div3 ul  li{
+    height: 35px;
+    width: 100px;
+    border: 1px solid darkslateblue;
+    color: white;
+    margin-left: 300px;
+    margin-top:-50px; 
+    
+}
+
+#div3 ul li{
+    
+    text-align: center;
+font-size: 20px;
+}
+
+
+
+#div4 ul  li{
+    height: 35px;
+    width: 100px;
+    border: 1px solid darkslateblue;
+    color: white;
+    margin-left: 430px;
+    margin-top:-52px; 
+    
+}
+
+#div4 ul li{
+    
+    text-align: center;
+font-size: 20px;
+}
+
+
+
+
+
+#div5 ul  li{
+    height: 35px;
+    width: 100px;
+    border: 1px solid darkslateblue;
+    color: white;
+    margin-left: 560px;
+    margin-top:-52px; 
+    
+}
+
+#div5 ul li{
+    
+    text-align: center;
+font-size: 20px;
+}
+
+
+
+
+#div6 ul  li{
+    height: 35px;
+    width: 100px;
+    border: 1px solid darkslateblue;
+    color: white;
+    margin-left: 700px;
+    margin-top:-52px; 
+
+    
+}
+
+#div6 ul li{
+    
+    text-align: center;
+font-size: 20px;
+}
+
+#div6 ul ul li{
+    color: blue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#div7 ul  li{
+    height: 35px;
+    width: 100px;
+    border: 1px solid darkslateblue;
+    color: white;
+    margin-left: 830px;
+    margin-top:-52px; 
+    
+}
+
+#div7 ul li{
+
+    text-align: center;
+font-size: 20px;
+    
+}
+
+
+
+
+#div20{
+    
+    height: 200px;
+    width: 1120px;
+    border: 0px solid black;
+    background-color: antiquewhite;
+    margin-top: 39px;
+    margin-left: -155px;
+    position: absolute;
+}
+
+#div3 ul li ul li
+{
+    font-size: 22px;
+color: dodgerblue;    
+    height: 30px;
+    width: 180px;
+    border: 2px solid black;
+    margin-top: 0px;
+    margin-left: -20px;
+    
+}
+
+#div3 ul li ul #li5{
+    
+    margin-top:5px; 
+}
+
+
+#div3 #ul12{
+    
+    margin-left: 210px;
+    margin-top:-172px; 
+}
+
+#div3 #ul13{
+    
+    margin-left: 430px;
+
+    margin-top: -172px;
+}
+
+#div3 #ul13 li{
+    
+    width: 230px;
+
+}
+
+
+#div3 #ul14{
+    margin-left: 700px;
+    margin-top: -170px;
+    
+}
+
+
+
+
+#div3 #ul14 li{
+    
+    width: 230px;
+}
+
+
+#div3{
+    
+    margin-top:98px; 
+}
+
+
+
+#div20{
+    
+    display: none;
+    
+}
+
+
+#div2 ul li:hover #div20{
+    
+    display: block;
+}
+
+
+
+#div21{
+    
+    height: 200px;
+    width: 1120px;
+    border: 1px solid red;
+margin-top: 39px;
+    margin-left: -280px;
+    position: absolute;
+    background-color: white;
+}
+
+
+#div21 img{
+    height: 150px;
+    margin-left: -810px;
+    margin-top:7px; 
+}
+
+#div21 #ul15 li{
+    
+
+    color: red;
+    border: 1px solid red;
+    height: 100px;
+    width: 250px;
+    margin-top:-10x;
+    margin-left: 270px;
+    
+    }
+
+#div21 #ul15 #li15{
+    
+    margin-top: -157px;
+}
+
+
+#div21 #rishi li{
+    
+    color: blueviolet;
+    margin-left: 490px;
+
+}
+
+#div21 #rishi #li16{
+    margin-top:-202px; 
+    
+}
+#div21 #ul16{
+    
+    margin-left: 480px;
+}
+
+
+#div21 #ul16 #li16{
+    
+    margin-top:-202px; 
+}
+    
+#div21{
+    
+    display: none;
+}
+
+
+#div4 ul li:hover #div21{
+    
+    display: block;
+}
+
+
+#div5 ul ul{
+    
+    margin-top: 36px;
+margin-left:-40px; 
+    
+    
+}
+
+#div5 ul ul li{
+    
+    color: red;
+    border: 1px solid black;
+    margin: 0px; 
+    width: 350px;
+ 
+
+}
+
+
+#div5 ul ul{
+    
+    display: none;
+}
+
+
+#div5 ul li:hover ul{
+    
+    display: block;
+position: absolute;
+    background-color: papayawhip;
+     
+}
+
+#li17{
+    
+    margin-top:100px;
+
+
+    
+}
+
+#div6 #ul17 #li18{ 
+    
+    margin-top:0px;}
+
+
+#div6 #ul17 #li19{
+    
+    margin-top: 0px;}
+
+
+
+#div6 #ul17 #li20{
+    
+    margin-top: 0px;
+
+}
+
+
+
+#div6 #ul17 #li21{
+    
+    margin-top: 0px;
+
+    
+}
+
+
+#div6 #ul17 #li22{
+    
+    margin-top: 0px;
+
+
+}
+
+
+#div6 ul ul{
+    
+    display: none;
+}
+
+
+#div6 ul li:hover ul{
+    
+    
+    display: block;
+
+
+}
+
+
+#div6 ul ul li{
+
+    
+    text-align: left;
+}
+
+
+#tiwari{
+    
+height:38px;
+    width: 100px;
+    border: 0px solid  darkblue;
+position: absolute;
+}
+
+
+#amit{
+    
+height:38px;
+    width: 100px;
+    border: 0px solid  darkblue;
+position: absolute;
+}
+
+
+
+#rahul{
+    
+height:38px;
+    width: 100px;
+    border: 0px solid  darkblue;
+position: absolute;
+    
+}
+
+
+
+#you{
+    
+height:38px;
+    width: 100px;
+    border: 0px solid  darkblue;
+position: absolute;
+}
+
+#div3 #ul11 li:hover{
+    
+    color: aqua;
+    font-size: 25px;
+}
+
+#div3 #ul11 ul li:hover{
+    
+    color: red;
+}
+
+
+#div4 ul li:hover{
+    color: aqua;
+    font-size: 25px;
+    
+}
+
+#div5 ul li:hover{
+    
+    color: aqua;
+
+    font-size: 25px;
+    
+}
+#div6 ul li:hover{
+    color: aqua;
+    font-size: 25px;
+    
+}
+
+
+#ul6 li{
+    
+    animation-name: op;
+    animation-duration: 2s;
+    animation-iteration-count: none;
+    
+}
+
+@keyframes op{
+    
+    from{ color: chartreuse;margin-left: -150px;}
+    to{color: white;font-size: 45px}
+    
+}
+
+
+
+
+
+#div24{
+height: 700px;
+    width: 1330px;
+    border: 1px solid black;
+    margin-top: -5px;
+    margin-left: 7px;
+    
+
+
+
+}
+
+
+#div24 img{
+    height: 650px;
+    width: 1320px;
+
+}
+
+#div30{
+    
+height: 650px;
+    width: 1320px;
+    border: 0px solid blue;
+
+}
+
+
+
+#div31{
+    
+    animation-name: ;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes rishi{
+    
+    from{margin-left: -960px;}
+    to{margin-left: 0px;}
+}
+
+
+
+
+#div25{
+    height: 100px;
+    width: 650px;
+    border: 1px solid white;
+    margin-top: -450px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+
+#div20{
+    animation-name:io;
+    animation-duration: 1s;
+    animation-iteration-count: none;
+    
+    
+}
+
+
+@keyframes io{
+    
+    from{background-color: white;margin-left: 150px;}
+    to{background-color: white;}
+    
+}
+
+
+
+
+
+#div21{
+    animation-name:ioo;
+    animation-duration: 1s;
+    animation-iteration-count: none;
+    
+    
+}
+
+
+@keyframes ioo{
+    
+    from{background-color: antiquewhite;margin-top:1000px;}
+    to{background-color: antiquewhite;}
+    
+}
+
+
+
+
+
+
+
+#div5 ul ul li{
+    animation-name:ito;
+    animation-duration: 1s;
+    animation-iteration-count:none;
+    
+    
+}
+
+
+@keyframes ito{
+    
+    0%{background-color:orange; margin-top: 1500px;}
+    100%{background-color: orange; }
+    
+}
+
+
+
+
+#div25 ul li{
+    
+    float: left;
+    font-size: 60px;
+    max-width: 105px;
+}
+
+
+
+#div25 ul #li70{
+    
+    color: red;
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+
+    animation-duration: 1s;
+    
+}
+
+
+@keyframes tiwari{
+    
+    from{margin-top: 200px;}
+    to{margin-top: 0px;}
+}
+
+
+
+#div25 #li71{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    animation-duration: 2s;
+    
+}
+
+#div25 #li72{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    
+    animation-duration: 3s;
+    
+}
+
+
+
+
+#div25 #li73{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    
+    animation-duration: 1s;
+    
+}
+
+
+
+
+#div25 #li74{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    animation-duration: 2s;
+}
+
+
+
+
+
+#div25 #li75{
+    animation-name: tiwari;
+       
+    animation-iteration-count:none;
+    animation-duration: 3s;
+    
+}
+
+
+
+
+#div25 #li76{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+
+    animation-duration: 1s;
+    
+}
+
+
+
+
+#div25 #li77{
+    
+    animation-name: tiwari;
+    animation-iteration-count: none;
+    animation-duration: 2s;
+    
+}
+
+
+
+#div25 #li78{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    animation-duration: 3s;
+    
+    
+}
+
+
+
+#div25 #li79{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    animation-duration: 1s;
+    
+    
+}
+
+
+
+
+
+#div25 #li80{
+    
+    animation-name: tiwari;
+    animation-iteration-count: none;
+    animation-duration: 2s;
+    
+    
+}
+
+
+#div25 #li81{
+    
+    animation-name: tiwari;
+    animation-iteration-count: none;
+    animation-duration: 3s;
+    
+}
+
+
+
+
+#div25 #li82{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    animation-duration: 1s;
+    
+    
+}
+
+
+
+#div25 #li83{
+    
+    animation-name: tiwari;
+    animation-iteration-count: none;
+    animation-duration: 2s;
+    
+}
+
+
+
+
+#div25 #li84{
+    
+    animation-name: tiwari;
+    animation-iteration-count: none;
+    animation-duration: 1s;
+    
+}
+
+
+
+
+
+#div25 #li85{
+    
+    animation-name: tiwari;
+    animation-iteration-count: none;
+    animation-duration: 2s;
+    
+    
+}
+
+
+
+
+#div25 #li86{
+    
+    animation-name: tiwari;
+    animation-iteration-count: none;
+    animation-duration: 3s;
+    
+}
+
+
+
+
+#div25 #li87{
+    
+    animation-name: tiwari;
+    animation-iteration-count:none;
+    animation-duration: 1s;
+    
+    
+}
+
+
+#div25{
+    transition-property:background;
+    transition-duration: 2s;
+    
+    
+    
+}
+
+
+#div25:hover{
+    background-color: orange;
+    
+}
+
+
+
+
+#div27{
+    
+    height: 70px;
+    width: 250px;
+    border: 1px solid black;
+    margin-top: -300px;
+    margin-left: 255px;
+position: absolute;
+}
+
+#div27 h1{
+    
+    text-align: center;
+    color: white;
+}
+
+
+
+#div29{
+    
+    height: 70px;
+    width: 250px;
+
+    margin-top: -80px;
+    margin-left: -250px;
+position: absolute;
+    
+}
+
+
+#div27{
+    transition-property:background;
+
+    transition-duration: 5s;
+
+    
+    
+}
+
+
+#div27:hover #div29{
+    display: block;
+    background-color:lightsteelblue;
+margin-left: 0px;
+
+}
+
+#div29{
+    
+    transition-property: all;
+    transition-duration: 2s;
+    
+
+}
+
+
+
+
+#div35{
+    
+    height: 80px;
+    width: 650px;
+    border: 1px solid blue;
+    margin-top: -50px;
+    margin-left: 655px;
+    position: absolute;
+    border-radius: 15px;
+    background-color:greenyellow;
+}
+
+#div35 h1{
+    
+    text-align: center;
+font-size: 45px;
+    position: relative;
+font-family: cursive;
+        top: -10px;
+    
+}
+
+#profile{
+    
+    height: 250px;
+    width: 500px;
+    border: 5px solid black;
+    position: absolute;
+    margin-left: 750px;
+    margin-top:-1px;
+    background-color: darkgray;
+display:none;
+    
+}
+
+
+#div7 ul li:hover{
+    color: aqua;
+    font-size: 20px;
+    
+}
+
+
+
+#div7:hover #profile{
+display: block;
+    animation-name: pop;
+    animation-duration: 3s;
+    animation-iteration-count:none;
+    
+    
+}
+
+
+@keyframes pop{
+    from{margin-top:1000px;background-color: red; }
+    to{margin-top:0px;background-color: orange;}
+    
+}
+
+
+
+#profile img{
+    
+    width: 200px;
+    height: 200px;
+    margin-top:20px;
+    margin-left: 280px;
+    
+}
+
+
+#profile h1{
+    margin-top: -150px;
+    color: white;
+    
+}
+
+
+#profile h2{
+    
+    color: white;
+    margin-left: 80px;
+}
+
+
+#div36{
+    
+    height: 180px;
+    width: 1320px;
+    border: 1px solid red;
+    margin-top: -50px;
+    margin-left: 6px;
+    background-color: blue;
+}
+
+#div37{
+    height: 45px;
+    width: 170px;
+    border: 1px solid black;
+    margin-top: 65px;
+    margin-left: 25px;
+    transition-property: background;
+    transition-duration: 1s;
+}
+
+
+#div37 h1{
+    
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: -15px;
+    
+    
+}
+
+
+#div37:hover{
+    background-color: orange;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#div38{
+    height: 45px;
+    width: 170px;
+    border: 1px solid black;
+    margin-top: -45px;
+    margin-left: 260px;
+    transition-property: background;
+    transition-duration: 1s;
+}
+
+
+#div38 h1{
+    
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: -15px;
+    
+    
+}
+
+
+#div38:hover{
+    background-color: red;
+    
+}
